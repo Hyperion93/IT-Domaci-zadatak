@@ -1,0 +1,88 @@
+header {
+    background-color: darkorange;
+}
+
+#naslov {
+    text-align: center;
+    font-size: 40px;
+}
+
+#loginForma {
+    float: right;
+}
+
+#slika1 {
+    width: 30%;
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    left: 500px;
+
+
+}
+
+.priprema {
+    font-size: 25px;
+
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCiIfGLJ1KqF5X4cRIhausipzA3ICOw3keLYmWGpAGlXwccCW&s);
+    background-size: 60%;
+
+
+}
+
+#naziv1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#naziv2 {
+    font-size: 40px;
+    text-align: center;
+}
+#naziv3 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#slika2 {
+    width: 30%;
+    display: inline-block;
+    position: absolute;
+    left: 500px;
+    top: 1400px;
+}
+#slika3{
+    width: 30%;
+    display: inline-block;
+    position: absolute;
+    left:500px;
+    top: 2820px;
+}
+footer{
+    background-color:gray;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.social-icon{
+    width: 24px;
+    height: 24px;
+  }
+  #copyright{
+    float:right;
+  }
+
+  .social-icon{
+    width: 24px;
+    height: 24px;
+  }
+  .navbar_wrapper{
+      position:fixed;
+      background-color:rgb(216, 1, 1);
+      padding-top:15px;
+      padding-bottom:15px;
+      padding-left:15px;
+      padding-right:15px;
+  }
